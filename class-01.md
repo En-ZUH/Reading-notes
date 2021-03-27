@@ -5,7 +5,7 @@
  is used to marked our pages interactive by accessing and modifing the content and markup used in webpage while it is being viewedin the browser, by :
 ## ***1- Access Content:***
 ### allows the user to select any element, attribute, or text from HTML pages.
- ### You can use JavaScript to select any element, attribute, or text from an HTML page. For example:
+### You can use JavaScript to select any element, attribute, or text from an HTML page. For example:
  * Select the text inside all of the <hl> elements on a page
  * Select any elements that have a class attribute with a value of note
  * Find out what was entered into atext input whose id attribute has a value of emai1
@@ -13,7 +13,7 @@
    
 
 ## ***2- Modify content***
-  ### You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example:
+### You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example:
 * Add a paragraph of text after the first <hl> element
 * Change the value of c1ass attributes to trigger new CSS rules for those elements
 * Change the size or position of an <img> element 
