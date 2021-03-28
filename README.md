@@ -13,3 +13,4 @@
 | class09   |  [Forms and Events](https://enasbatayneh.github.io/Reading-notes_201/class09)|
 | class10   | [JS Debugging](https://enasbatayneh.github.io/Reading-notes_201/class10)|
 | class11   | [Assorted Topics](https://enasbatayneh.github.io/Reading-notes_201/class11)|
+| class12   | [Assorted Topics](https://enasbatayneh.github.io/Reading-notes_201/class12)|
