@@ -140,3 +140,4 @@ Baseline alignment setting. Possible values: top, hanging, middle, alphabetic, i
 Directionality. Possible values: ltr, rtl, inherit. The default value is inherit.
 ### Advanced text measurements
 In the case you need to obtain more details about the text, the following method allows you to measure it. measureText().
+
