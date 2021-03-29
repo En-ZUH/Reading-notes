@@ -15,3 +15,4 @@
 | class10   | [JS Debugging](https://enasbatayneh.github.io/Reading-notes_201/class10)|
 | class11   | [Assorted Topics](https://enasbatayneh.github.io/Reading-notes_201/class11)|
 | class12   | [Chart.js, Canvas](https://enasbatayneh.github.io/Reading-notes_201/class12)|
+| class13   | [The Past, Present, and Future of Local Storage for Web Applications](https://enasbatayneh.github.io/Reading-notes_201/class13)|
