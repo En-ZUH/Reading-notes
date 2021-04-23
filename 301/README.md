@@ -1,9 +1,9 @@
 ## Code 301 - Intermediate Software Development
 
 ### Table of Contents
-| content      | link                                                            |
+| Class      | Link                                                            |
 | -----------  | ----------------------------------------------------------------|
-|      |[Click HERE]()|
+|  class01    |[Click HERE]()|
 |      |[Click HERE]()|
 |      |[Click HERE]()|
 |      |[Click HERE]()|

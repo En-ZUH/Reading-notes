@@ -2,7 +2,7 @@
 ### Table of Contents
 
 
-| Number     |Class|
+| Class     |Link|
 | -----------|-----------|
 |*|[Growthmindset](https://enasbatayneh.github.io/Reading-notes_101/growthmindset)|
 |1|[Learning Markdown](https://enasbatayneh.github.io/Reading-notes_101/reada02a)|

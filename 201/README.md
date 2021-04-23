@@ -2,7 +2,7 @@
 
 ## Code 201 - Foundations of Software Development
 ### Table of Contents
-| Number     |Class|
+| Class     |Link|
 | -----------|-----------|
 |class 01|[Introduction to Javascript](https://enasbatayneh.github.io/Reading-notes_201/class-01)|
 |class 02|[HTML Text, CSS Introduction and Basic JavaScript Instruction](https://enasbatayneh.github.io/Reading-notes_201/class-02)|
