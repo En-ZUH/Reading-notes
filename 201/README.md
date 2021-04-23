@@ -1,7 +1,7 @@
-![img](https://1.bp.blogspot.com/-6rWWn8t8ojQ/XvScU746AzI/AAAAAAAAXps/AcMBispMAREOaleECiNXgHoVM44e6cdnACK4BGAsYHg/s2000/reading%2Bnotes.png)
 
-# Code 201 - Foundations of Software Development
 
+## Code 201 - Foundations of Software Development
+### Table of Contents
 | Number     |Class|
 | -----------|-----------|
 |class 01|[Introduction to Javascript](https://enasbatayneh.github.io/Reading-notes_201/class-01)|
