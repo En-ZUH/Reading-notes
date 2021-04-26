@@ -19,10 +19,10 @@ element for each item. Finally, we assign the resulting array of elements to lis
 
 
  ### ``` const numbers = [1, 2, 3, 4, 5];
-### const listItems = numbers.map((number) =>
- ### <li>{number}</li>
-### );
-### ```
+  const listItems = numbers.map((number) =>
+   <li>{number}</li>
+  );
+  ```
 
 ## Lists and Keys
 
