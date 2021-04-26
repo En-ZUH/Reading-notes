@@ -17,7 +17,8 @@ Below, we loop through the numbers array using the JavaScript map() function. We
 
 element for each item. Finally, we assign the resulting array of elements to listItems:
 
-``` const numbers = [0, 1, 2, 3, 4];
+
+``` const numbers = [1, 2, 3, 4, 5];
 const listItems = numbers.map((number) =>
   <li>{number}</li>
 );
