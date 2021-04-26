@@ -1,4 +1,5 @@
-## Passing Functions as Props
+![img](https://i.ytimg.com/vi/szmS_M-BMls/mqdefault.jpg)
+ 
 
 ### There are several ways to make sure functions have access to component attributes like this.props and this.state, depending on which syntax and build steps you are using.
 
