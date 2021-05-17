@@ -13,7 +13,7 @@
 |class07 |[REST](https://en-zuh.github.io/Reading-notes/301/class07)|
 |class08 |[APIs](https://en-zuh.github.io/Reading-notes/301/class08)|
 |class09 |[FUNCTIONAL PROGRAMMING](https://en-zuh.github.io/Reading-notes/301/class09)|
-|class10 |[In memory storage](https://en-zuh.github.io/Reading-notes/301/class010)|
+|class10 |[In memory storage](https://en-zuh.github.io/Reading-notes/301/class10)|
 |class11 |[Authentication](https://en-zuh.github.io/Reading-notes/301/class11)|
 |class12 |[Mongo and Mongoose](https://en-zuh.github.io/Reading-notes/301/class12)|
 |class13 |[class](https://en-zuh.github.io/Reading-notes/301/class13)|
