@@ -10,7 +10,9 @@
 
 ## What kind of data is a good fit for an SQL database?
 ### Complex query
+
 ## Give a real world example.
 ### MySQL Community Edition
+
 ## What kind of data is a good fit a NoSQL database?
 ## Hierarchical data storage
