@@ -98,7 +98,7 @@ It’s important to monitor how effectively your measures solved or minimized th
 That’s it! While the 5 Whys method was originally developed for use in a manufacturing setting, it can be beneficial in a wide range of applications. Do you use the 5 Whys in your work or personal life? If so, how was the method worked for you?
 
 
- # Reference 
+ ### References:
 1- [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
 
 2- [Act like you make $1000/hr](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
