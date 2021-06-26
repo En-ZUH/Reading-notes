@@ -5,5 +5,5 @@
 | Class  | Link                                                            |
 |-----------| ----------------------------------------------------------------|
 |prep |[Pre-Work](https://en-zuh.github.io/Reading-notes/401/prep-read)|
-|class01 |[Node Ecosystem, TDD, CI/CD](https://en-zuh.github.io/Reading-notes/401/class01)|
+|class01 |[Review, Research, and Discussion](https://en-zuh.github.io/Reading-notes/401/Class01)|
  
