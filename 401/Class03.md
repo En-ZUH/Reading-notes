@@ -17,8 +17,8 @@
 
 
 ## 4. At what point in the request lifecycle can you “inject” middleware?
- #### after creating the requests, and before sending the response, and at any point causes an error.
+  after creating the requests, and before sending the response, and at any point causes an error.
 
 
 ## 5. What can cause express to error with “Request headers sent twice, cannot start a second response”.
-#### in the finished state, while some functions tries to set statusCode.
+  in the finished state, while some functions tries to set statusCode.
