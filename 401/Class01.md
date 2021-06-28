@@ -3,8 +3,8 @@
 ## Review, Research, and Discussion
 
 ## 1. what Array.map() does?
- ### it is a method used to iterate over an array and calling function on every element of array, to create a new array from an existing one.
-   #### (It loops through each item in the original array, transforms it in some way, and then pushes it into a new array).
+ ###  it is a method used to iterate over an array and calling function on every element of array, to create a new array from an existing one.
+   ####  (It loops through each item in the original array, transforms it in some way, and then pushes it into a new array).
    ![img](https://www.itboy.in/wp-content/uploads/2021/01/map.png)
 
  ## 2. what Array.reduce() does?
