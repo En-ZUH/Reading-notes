@@ -10,17 +10,23 @@
 ### 2. In what case would you need to use beforeEach() or afterEach() in a test suite?
   * beforeEach() method needed to be called before the test running.
   * afterEach()  method needed to be called to rest the database after the test running.
+
 ***
+
 ### 3. What is one downside of Test Driven Development. 
  * slow process, means you need an extra time for straight forward implementations.
  * Not running frequently tests enough.
  * writing too large tests.
  * writing too large and insignificant tests.
+
 ***
+
 ### 4. What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
 * The most important difference between ES6 (Classes) and (Constructor/Prototype Classes) Inheretence, is that classes define a type which can be instantiated at runtime, while the prototype itself is an object instance.
 * The inheretence is much more effecient and simple with ES6 classes.
+
 ***
+
 ### 5. Why REST?
 
 * Can be used well where network bandwidth is a constraint.
