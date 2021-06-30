@@ -7,7 +7,6 @@ A linked list is a a sequence of Nodes that are connected/linked to each other. 
 ![](https://people.engr.ncsu.edu/efg/210/s99/Notes/LLdefs.gif)
 ![linked-list](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/Linkedlist-2.png)
 
-***️
 
 ## The element of linked list:
 
@@ -19,7 +18,7 @@ A linked list is a a sequence of Nodes that are connected/linked to each other. 
 
 4. Current : regers to node currently being looked at, and when we do some operations to the linked list, we define the current as the head node to ensure we start at the beginning.
 
-***️
+ 
 
 ## Types of Linked List
 
@@ -29,8 +28,7 @@ A linked list is a a sequence of Nodes that are connected/linked to each other. 
 * Doubly Linked List => Item can be navigated forward and backward (which means that there is a reference to both next and previous nodes).
 
 * Circular Linked List => Last item contains link of the first element as next and the first element has a link to the last element as previous (which means that there is a reference from the last node to the first node.)
-
-***️
+ 
 
 ## Basic Operations
 
@@ -45,7 +43,7 @@ A linked list is a a sequence of Nodes that are connected/linked to each other. 
 
 * Delete => Deletes an element using the given key.
 
-***️
+ 
 
 ### Advantages for linked lists: 
 
@@ -57,7 +55,7 @@ A linked list is a a sequence of Nodes that are connected/linked to each other. 
 
 * Linked is a dynamic data structure.
 
-***
+ ****
 
 ### DisAdvantages of linked lists:
 
@@ -67,7 +65,7 @@ A linked list is a a sequence of Nodes that are connected/linked to each other. 
 
 * No element can be accessed randomly, it has to access each node sequentially i.e. proper traversal must be done.
 
-***
+****
 
 #### Refrences
 
