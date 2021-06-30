@@ -1,10 +1,12 @@
-# Data Modeling eeee
+# Data Modeling  
 
 ### 1. Name 3 advantages to Test Driven Development.
  * Better program design, and higher code quality.
  * Creats a detailed specification.
  * Reduce debugging time.
+
 ***
+
 ### 2. In what case would you need to use beforeEach() or afterEach() in a test suite?
   * beforeEach() method needed to be called before the test running.
   * afterEach()  method needed to be called to rest the database after the test running.
