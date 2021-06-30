@@ -25,3 +25,17 @@
 | SOAP is a protocol. SOAP was designed with a specification. It includes a WSDL file which has the required information on what the web service does in addition to the location of the web service.                                 | REST is an Architectural style in which a web service can only be treated as a RESTful service if it follows the constraints of being Client Server Stateless Cacheable Layered System Uniform Interface                                                                                                                            |
 | SOAP cannot make use of REST since SOAP is a protocol and REST is an architectural pattern.                                                                                                                                         | REST can make use of SOAP as the underlying protocol for web services, because in the end it is just an architectural pattern.                                                                                                                                                                                                      |
 | SOAP uses service interfaces to expose its functionality to client applications. In SOAP, the WSDL file provides the client with the necessary information which can be used to understand what services the web service can offer. | REST use Uniform Service locators to access to the components on the hardware device. For example, if there is an object which represents the data of an employee hosted on a URL as http://demo.guru99 , the below are some of URI that can exist to access them http://demo.guru99.com/Employee http://demo.guru99.com/Employee/1 |
+
+
+
+## Vocabulary Terms:
+|        word          |                                                                         definition                                                                         |
+| :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|       Web Server        |  A web server is a computer that runs websites. It's a computer program that distributes web pages as they are requisitioned. The basic objective of the web server is to store, process and deliver web pages to the users. This intercommunication is done using Hypertext Transfer Protocol (HTTP). 
+|     Express       |   It's a web framework that let's you structure a web application to handle multiple different http requests at a specific url
+|      Routing      |  is the process of selecting a path for traffic in a network or between or across multiple networks. 
+|     WRRC  |  It's a blueprint describes the way that a backend server deals with different http requests/responses and where it redirects each request and response.
+
+***
+
+[<=Back](https://github.com/En-ZUH/Reading-notes/tree/main/401)
