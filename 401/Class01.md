@@ -44,7 +44,13 @@ let cityName =async(name)=>{
 ## 5. Are all callback functions considered to be Asynchronous? Why or Why Not?
 ### callbacks don't have anything to do with the async concept at all. They're just regular functions, and they don't know or care whether they're going to be called asynchronously or not.
 
+***
 
 #### Refrences:
 #### [asynchronous functions](https://dev.to/marek/are-callbacks-always-asynchronous-bah)
 #### [array methods](https://www.codingame.com/playgrounds/5474/a-look-at-the-array-reduce-function)
+
+***
+***
+
+[<=Back](https://github.com/En-ZUH/Reading-notes/tree/main/401)
