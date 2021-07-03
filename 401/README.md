@@ -10,3 +10,4 @@ Linked Lists
 |class03 |[Express REST API](https://en-zuh.github.io/Reading-notes/401/Class03)|
 |class04 |[Data Modeling](https://en-zuh.github.io/Reading-notes/401/Class04)| 
 |class05 |[Linked Lists](https://en-zuh.github.io/Reading-notes/401/Class05)| 
+|class06 |[Authentication](https://en-zuh.github.io/Reading-notes/401/Class06)| 
