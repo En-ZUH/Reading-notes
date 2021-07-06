@@ -13,3 +13,4 @@ Linked Lists
 |class06 |[Authentication](https://en-zuh.github.io/Reading-notes/401/Class06)| 
 |class07 |[Bearer Authorization](https://en-zuh.github.io/Reading-notes/401/Class07)| 
 |class08 |[Access Control (ACL)](https://en-zuh.github.io/Reading-notes/401/Class08)|
+|class09 |[SQL](https://en-zuh.github.io/Reading-notes/401/Class09)|
