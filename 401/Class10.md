@@ -6,7 +6,7 @@
 ## What is a Stack
 A stack is a data structure that consists of Nodes. Each Node references the next Node in the stack, but does not reference its previous.
 
-##
+ 
 1- Push - Nodes or items that are put into the stack are pushed
 2-Pop - Nodes or items that are removed from the stack are popped. When you attempt to pop an empty stack an exception will be raised.<br>
 3-Top - This is the top of the stack. <br>
@@ -64,8 +64,7 @@ Last In Last Out
 This means that the last item in the queue will be the last item out of the queue.
 
 
-#### resources
-* [Stacks and Queues](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
+
 
 ### Enqueue
 
@@ -93,3 +92,6 @@ re-assign front to the next value that the Node front is referencing
 
 re-assign the next property on the temp Node to null
 ![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/images/Dequeue3.PNG)
+
+#### resources
+* [Stacks and Queues](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
