@@ -1,7 +1,7 @@
 ## Code 401 - Advanced Javascript Development
 
 ## Table of Contents
-Linked Lists
+
 | Class  | Link                                                            |
 |-----------| ----------------------------------------------------------------|
 |prep |[Get Ready for 401](https://en-zuh.github.io/Reading-notes/401/prep-read)|
@@ -14,3 +14,4 @@ Linked Lists
 |class07 |[Bearer Authorization](https://en-zuh.github.io/Reading-notes/401/Class07)| 
 |class08 |[Access Control (ACL)](https://en-zuh.github.io/Reading-notes/401/Class08)|
 |class09 |[SQL](https://en-zuh.github.io/Reading-notes/401/Class09)|
+|class10 |[Stacks and Queues](https://en-zuh.github.io/Reading-notes/401/Class10)|
