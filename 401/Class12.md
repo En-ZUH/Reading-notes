@@ -7,9 +7,7 @@
 
 ## 2. UDP is often refereed to as a connectionless protocol. Why is this?
 
-#### it is analogous to sending a letter where you don't acknowledge receipt, so ther is no need for the 
-#### connection to be established between the source and destination before you transmit the data, UDP doesn't #### have a mechnism to make sure theat the deployed is not corrupted,
-#### As a result, the apllication must take care of data integrity all by itself.
+#### it is analogous to sending a letter where you don't acknowledge receipt, so ther is no need for the connection to be established between the source and destination before you transmit the data, UDP doesn't have a mechnism to make sure theat the deployed is not corrupted, As a result, the apllication must take care of data integrity all by itself.
  
 
 ## 3. Can a socket server application have multiple socket connections?
