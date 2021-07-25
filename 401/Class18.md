@@ -93,3 +93,5 @@ Amazon DynamoDB is a key-value and document database that delivers single-digit 
 * [AWS DynamoDB](https://aws.amazon.com/dynamodb/) 
 
 * [Dynamoose](https://dynamoosejs.com/getting_started/Introduction/)
+
+[Back](https://github.com/En-ZUH/Reading-notes/tree/main/401)
