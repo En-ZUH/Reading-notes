@@ -61,7 +61,6 @@ Searching a BST can be done quickly, because all you do is compare the node you 
 
 ***
 
-#### *Resources*
-[Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
+#### *Resources*: [Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
 
 [Back](https://github.com/En-ZUH/Reading-notes/tree/main/401)
