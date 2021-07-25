@@ -1,18 +1,18 @@
 # AWS: Cloud Servers
 
-## 1. Describe the Web-Request-Response-Cycle.
+### 1. Describe the Web-Request-Response-Cycle.
 
-### The request/response cycle traces how a user's request flows through the app. Understanding the request/response cycle is helpful to figure out which files to edit when developing an app (and where to look when things aren't working).
+#### The request/response cycle traces how a user's request flows through the app. Understanding the request/response cycle is helpful to figure out which files to edit when developing an app (and where to look when things aren't working).
 
-## 2. Explain what a “server” is, as it relates to the WRRC
-### A server is a computer that serves information to other computers. 
+### 2. Explain what a “server” is, as it relates to the WRRC
+#### A server is a computer that serves information to other computers. 
 
-## 3. What does it mean to “deploy” an application?
-### Software deployment refers to the process of running an application on a server or device. Software deployment refers to the process of making the application work on a target device, whether it be a test server, production environment or a user's computer or mobile device.
+### 3. What does it mean to “deploy” an application?
+#### Software deployment refers to the process of running an application on a server or device. Software deployment refers to the process of making the application work on a target device, whether it be a test server, production environment or a user's computer or mobile device.
 ***
 
 ## Vocabulary Terms
-### Server : a server is a piece of computer hardware or software (computer program) that provides functionality for other programs or devices, called "clients". ... Typical servers are database servers, file servers, mail servers, print servers, web servers, game servers, and application servers.
+#### Server : a server is a piece of computer hardware or software (computer program) that provides functionality for other programs or devices, called "clients". ... Typical servers are database servers, file servers, mail servers, print servers, web servers, game servers, and application servers.
 
 ### Pub/Sub : is an asynchronous messaging service that decouples services that produce events from services that process events.
 
@@ -46,3 +46,7 @@ is an easy-to-use service for deploying and scaling web applications and service
 * [AWS EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc)
 * [EC2 For Humans](https://www.youtube.com/watch?v=lZMkgOMYYIg)
 * [Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0)
+
+
+[Back](https://github.com/En-ZUH/Reading-notes/tree/main/401)
+
