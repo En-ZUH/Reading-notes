@@ -1,13 +1,13 @@
 # AWS: API, Dynamo and Lambda
 
-## 1. What are serverless functions?
+### 1. What are serverless functions?
 A serverless function is a programmatic function written by a software developer for a single purpose. It's then hosted and maintained on infrastructure by cloud computing companies. These companies take care of code maintenance and execution so that developers can deploy new code faster and easier. 
 
-## 2. If you were to create a system that emulated Lambda functions, how would you do it?
+### 2. If you were to create a system that emulated Lambda functions, how would you do it?
 
-### 1. Open the Functions page on the Lambda console.
+    1. Open the Functions page on the Lambda console.
 
-### 2. Choose Create function.
+    2. Choose Create function.
 
 ### 3. Under Basic information, do the following:
 
@@ -16,13 +16,14 @@ A serverless function is a programmatic function written by a software developer
    * For Runtime, confirm that Node.js 14.x is selected. Note that Lambda provides runtimes for .NET (PowerShell,C#) Go, Java, Node.js, Python, and Ruby.
 
 ### 4. Choose Create function.
+***
 
-## 3. Describe how a CDN works.
-### CDNs store a cached version of your website content in multiple geographical locations around the world, which are known as “points of presence” (PoPs). These PoPs will contain their own caching servers and will be responsible for delivering that content in the user’s location.
+### 3. Describe how a CDN works.
+#### CDNs store a cached version of your website content in multiple geographical locations around the world, which are known as “points of presence” (PoPs). These PoPs will contain their own caching servers and will be responsible for delivering that content in the user’s location.
 ****
 
 ## Vocabulary Terms
-### Serverless Functions :
+#### Serverless Functions :
 *   serverless function is a programmatic function written by a software developer for a single purpose. It's then hosted and maintained on infrastructure by cloud computing companies. These companies take care of code maintenance and execution so that developers can deploy new code faster and easier.
 
 ### Cloud Storage :
