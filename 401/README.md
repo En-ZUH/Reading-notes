@@ -22,7 +22,8 @@
 |class15 |[Trees](https://en-zuh.github.io/Reading-notes/401/Class15)|
 |class16 |[AWS: Cloud Servers](https://en-zuh.github.io/Reading-notes/401/Class16)|
 |class17 |[AWS: S3 and Lambda](https://en-zuh.github.io/Reading-notes/401/Class17)|
- 
+|class18 |[AWS: API, Dynamo and Lambda](https://en-zuh.github.io/Reading-notes/401/Class18)|
+
 
 
 
