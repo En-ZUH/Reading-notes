@@ -1,7 +1,7 @@
 # AWS: Events
 
 
-## 1. Describe the similarities between AWS API Gateway + Lambda functions and an ExpressJS Server.
+### 1. Describe the similarities between AWS API Gateway + Lambda functions and an ExpressJS Server.
 
 * Key Authentication	 
 * HTTPS
@@ -13,7 +13,7 @@
 * ExpressJS Server can sit at the heart of any microservices architecture, regardless of what language or platform you’re using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS and Express middleware.
 * AWS API Gateway a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 
-## 2. List the AWS Database offerings and talk about the pros and cons of each.
+### 2. List the AWS Database offerings and talk about the pros and cons of each.
 - Relational:
 Traditional applications, ERP, CRM, e-commerce
 
@@ -36,12 +36,12 @@ Systems of record, supply chain, registrations, banking transactions
  
 
 
-## 3. What’s the difference between a FIFO and a standard queue?
+### 3. What’s the difference between a FIFO and a standard queue?
 - Standard queues guarantee that a message is delivered at least once and duplicates can be introduced into the queue. 
 - FIFO queues ensure a message is delivered exactly once and remains available until a consumer processes and deletes it; duplicates are not introduced into the queue.
 ![](./assets/QueueTypes.jpg)
 
-## 4. How can the server be assured a message was properly received?
+### 4. How can the server be assured a message was properly received?
 
 By having the client emit a 'received' event back to the server upon receipt of the message.
 ***
