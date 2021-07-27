@@ -1,5 +1,5 @@
 # Reading Notes
-![img](image.jpg)
+![img](assets/image.jpg)
 
 ## Hi it's Enas Bataineh, and here you can view all of my Reading Notes, for each level: 
 
