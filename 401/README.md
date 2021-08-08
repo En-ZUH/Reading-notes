@@ -24,6 +24,7 @@
 |class17 |[AWS: S3 and Lambda](https://en-zuh.github.io/Reading-notes/401/Class17)|
 |class18 |[AWS: API, Dynamo and Lambda](https://en-zuh.github.io/Reading-notes/401/Class18)|
 |class19 |[AWS: Events](https://en-zuh.github.io/Reading-notes/401/Class19)|
+|class26 |[Component Based UI](https://en-zuh.github.io/Reading-notes/401/Class26)|
 
 
 
