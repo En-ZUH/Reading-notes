@@ -25,6 +25,8 @@
 |class18 |[AWS: API, Dynamo and Lambda](https://en-zuh.github.io/Reading-notes/401/Class18)|
 |class19 |[AWS: Events](https://en-zuh.github.io/Reading-notes/401/Class19)|
 |class26 |[Component Based UI](https://en-zuh.github.io/Reading-notes/401/Class26)|
+|class27 |[useState() Hook](https://en-zuh.github.io/Reading-notes/401/Class27)|
+|class28 |[Component Lifecycle / useEffect() Hook](https://en-zuh.github.io/Reading-notes/401/Class28)|
 
 
 
