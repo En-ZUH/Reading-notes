@@ -28,6 +28,6 @@
 |class27 |[useState() Hook](https://en-zuh.github.io/Reading-notes/401/Class27)|
 |class28 |[Component Lifecycle / useEffect() Hook](https://en-zuh.github.io/Reading-notes/401/Class28)|
 |class29 |[Advanced State with Reducers](https://en-zuh.github.io/Reading-notes/401/Class29)|
-|Hash Tables |[Advanced State with Reducers](https://en-zuh.github.io/Reading-notes/401/Hash Tables)|
+|Hash Tables|[Hash Tables](https://en-zuh.github.io/Reading-notes/401/Hash-Tables)|
 
 
