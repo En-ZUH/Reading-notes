@@ -29,7 +29,7 @@
 |class28 |[Component Lifecycle / useEffect() Hook](https://en-zuh.github.io/Reading-notes/401/Class28)|
 |Class29 |[Advanced State with Reducers](https://en-zuh.github.io/Reading-notes/401/Class29)|
 |Class30|[Hash Tables](https://en-zuh.github.io/Reading-notes/401/Hash-Tables)|
-|Class31|[Hash Tables](https://en-zuh.github.io/Reading-notes/401/Class31)|
-|Class32|[Hash Tables](https://en-zuh.github.io/Reading-notes/401/Class32)|
+|Class31|[Context API](https://en-zuh.github.io/Reading-notes/401/Class31)|
+|Class32|[Context API - Behaviors](https://en-zuh.github.io/Reading-notes/401/Class32)|
 
 
