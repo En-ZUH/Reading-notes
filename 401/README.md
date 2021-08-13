@@ -27,7 +27,9 @@
 |class26 |[Component Based UI](https://en-zuh.github.io/Reading-notes/401/Class26)|
 |class27 |[useState() Hook](https://en-zuh.github.io/Reading-notes/401/Class27)|
 |class28 |[Component Lifecycle / useEffect() Hook](https://en-zuh.github.io/Reading-notes/401/Class28)|
-|class29 |[Advanced State with Reducers](https://en-zuh.github.io/Reading-notes/401/Class29)|
-|Hash Tables|[Hash Tables](https://en-zuh.github.io/Reading-notes/401/Hash-Tables)|
+|Class29 |[Advanced State with Reducers](https://en-zuh.github.io/Reading-notes/401/Class29)|
+|Class30|[Hash Tables](https://en-zuh.github.io/Reading-notes/401/Hash-Tables)|
+|Class31|[Hash Tables](https://en-zuh.github.io/Reading-notes/401/Class31)|
+|Class32|[Hash Tables](https://en-zuh.github.io/Reading-notes/401/Class32)|
 
 
