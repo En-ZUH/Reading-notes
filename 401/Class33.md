@@ -16,10 +16,8 @@
 ## Vocabulary Terms: 
 | Term      | Definition                                                                                                 |
 | --------- | ---------------------------------------------------------------------------------------------------------------|
-| global state
-|state that is accessible at the top level of the app and passed via props.|
-|  global context
-| Context provides a way to share values and data between components without having to explicity pass a prop through every level of the tree. Designed to share data that can be considered "global" for a tree of React components, such as the current authenticated user, theme, or preferred language. |
+| global state|state that is accessible at the top level of the app and passed via props.|
+| global context| Context provides a way to share values and data between components without having to explicity pass a prop through every level of the tree. Designed to share data that can be considered "global" for a tree of React components, such as the current authenticated user, theme, or preferred language. |
 | provider|The component that is sharing context to child components  |
 | consumer| The components that use the context given to them by a parent component  |
 *** 
