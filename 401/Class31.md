@@ -22,7 +22,6 @@
  
 * Reducer:
   - is a function that determines changes to an application's state. It uses the action it receives to determine this change. 
- 
 
 *** 
 ## Preparation Materials:
