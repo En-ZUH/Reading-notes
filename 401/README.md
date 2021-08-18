@@ -32,4 +32,4 @@
 |Class31|[Context API](https://en-zuh.github.io/Reading-notes/401/Class31)|
 |Class32|[Context API - Behaviors](https://en-zuh.github.io/Reading-notes/401/Class32)|
 |Class33|[`<Login />` and `<Auth />`](https://en-zuh.github.io/Reading-notes/401/Class33)|
-|Class34|[Graphs](https://en-zuh.github.io/Reading-notes/401/Graphs)|
+|Class35|[Graphs](https://en-zuh.github.io/Reading-notes/401/Graphs)|
