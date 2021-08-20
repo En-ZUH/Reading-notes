@@ -32,4 +32,7 @@
 |Class31|[Context API](https://en-zuh.github.io/Reading-notes/401/Class31)|
 |Class32|[Context API - Behaviors](https://en-zuh.github.io/Reading-notes/401/Class32)|
 |Class33|[`<Login />` and `<Auth />`](https://en-zuh.github.io/Reading-notes/401/Class33)|
-
+|Class34|[API Integration](https://en-zuh.github.io/Reading-notes/401/Class34)|
+|Class36|[Application State with Redux](https://en-zuh.github.io/Reading-notes/401/Class36)|
+|Class37|[Redux - Combined Reducers](https://en-zuh.github.io/Reading-notes/401/Class37)|
+|Class38|[Redux - Asynchronous Actions](https://en-zuh.github.io/Reading-notes/401/Class38)|
