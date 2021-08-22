@@ -27,7 +27,7 @@
 | Reducer
 |A pure functions that take the previous state and an action, and return the next state. Like any other functions, you can split reducers into smaller functions to help do the work, or write reusable reducers for common tasks.|
  dispatch|dispatch is the act of sending something somewhere. In computer science, this term is used to indicate the same concept in different contexts, like to dispatch a call to a function, dispatch an event to a listener, dispatch an interrupt to a handler or dispatch a process to the CPU.\.
-|
+ 
 *** 
  
 ## Preparation Materials:
