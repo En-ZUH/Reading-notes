@@ -18,14 +18,10 @@
 
 | Term      | Definition                                                                                                 |
 | --------- | ---------------------------------------------------------------------------------------------------------------|
-| Immutable state
-|A State cannot be modified, reducers must make copies of existing state to make updates.|
-| Time travel in redux
- |Time travel is the ability to move back and forth among the previous states of an application and view the results in real time. With Redux, given a specific state and a specific action, the next state of the application is always exactly the same.|
-| Action creator
-|A function that literally creates an action object. In Redux, action creators simply return an action object and pass the argument value if necessary(The only way to change the state is to dispatch an action, an object that describes what happened.)|
-| Reducer
-|A pure functions that take the previous state and an action, and return the next state. Like any other functions, you can split reducers into smaller functions to help do the work, or write reusable reducers for common tasks.|
+| Immutable state|A State cannot be modified, reducers must make copies of existing state to make updates.|
+| Time travel in redux|Time travel is the ability to move back and forth among the previous states of an application and view the results in real time. With Redux, given a specific state and a specific action, the next state of the application is always exactly the same.|
+| Action creator|A function that literally creates an action object. In Redux, action creators simply return an action object and pass the argument value if necessary(The only way to change the state is to dispatch an action, an object that describes what happened.)|
+| Reducer|A pure functions that take the previous state and an action, and return the next state. Like any other functions, you can split reducers into smaller functions to help do the work, or write reusable reducers for common tasks.|
  dispatch|dispatch is the act of sending something somewhere. In computer science, this term is used to indicate the same concept in different contexts, like to dispatch a call to a function, dispatch an event to a listener, dispatch an interrupt to a handler or dispatch a process to the CPU.\.
  
 *** 
