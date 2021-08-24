@@ -37,3 +37,5 @@
 |Class37|[Redux - Combined Reducers](https://en-zuh.github.io/Reading-notes/401/Class37)|
 |Class38|[Redux - Asynchronous Actions](https://en-zuh.github.io/Reading-notes/401/Class38)|
 |Class35|[Graphs](https://en-zuh.github.io/Reading-notes/401/Graphs)|
+|Class39|[Redux - Additional Topics](https://en-zuh.github.io/Reading-notes/401/Class39)|
+|Class41|[React Native](https://en-zuh.github.io/Reading-notes/401/Class41)|

@@ -14,10 +14,8 @@ Both useState and setState are asynchronous operations. The useState and setStat
 
 | Term      | Definition                                                                                                 |
 | --------- | ---------------------------------------------------------------------------------------------------------------|
-| State Hook
-|A special function that lets you “hook into” React features. For example, useState is a Hook that lets you add React state to function components.|
-| Component Lifecycle
-|  Every React Component has a lifecycle of its own, lifecycle of a component can be defined as the series of methods that are invoked in different stages of the component's existence. ... Mounting: Mounting is the stage of rendering the JSX returned by the render method itself.|
+| State Hook|A special function that lets you “hook into” React features. For example, useState is a Hook that lets you add React state to function components.|
+| Component Lifecycle|  Every React Component has a lifecycle of its own, lifecycle of a component can be defined as the series of methods that are invoked in different stages of the component's existence. ... Mounting: Mounting is the stage of rendering the JSX returned by the render method itself.|
 *** 
 ## Preparation Materials: 
 #### How does useReducer work? 
