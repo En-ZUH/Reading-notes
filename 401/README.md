@@ -39,3 +39,5 @@
 |Class35|[Graphs](https://en-zuh.github.io/Reading-notes/401/Graphs)|
 |Class39|[Redux - Additional Topics](https://en-zuh.github.io/Reading-notes/401/Class39)|
 |Class41|[React Native](https://en-zuh.github.io/Reading-notes/401/Class41)|
+|Class42|[Ethics in Tech](https://en-zuh.github.io/Reading-notes/401/Class42)|
+
