@@ -16,17 +16,20 @@
 * There's tension for how data has been managed, how it is currently, and how it will continue to be. The examples provided were really eye-opening, credit limits based on where people shop, car insurance based on profiles, etc.
 
 ***
+
 ## *Article 3: [Will democracy survive big data and AI?](https://www.scientificamerican.com/article/will-democracy-survive-big-data-and-artificial-intelligence/)*
 
 * As smart devices become smarter and take strides towards sentience, it is our responsibility to mitigate the risks associated with big data and artificial intelligence. Companies are profiting from big data, supercomputers are surpassing the capabilities of humans, and jobs are rapidly being replaced by machines. Although innovation and technology have potential catastrophic consequences, we can’t ignore the potential benefits. Modern technology has created a global community and now more than ever, we have the tools and capability to come together for massive transformative change.. I strongly believe that humanity needs to be strategic and responsible when it comes to future innovation.
-***️
+***
+
 ## *Article 4: [Ethical dilemma of self driving cars](https://www.theglobeandmail.com/globe-drive/culture/technology/the-ethical-dilemmas-of-self-drivingcars/article37803470/)*
 
 * No one believes accidents will be eliminated entirely, which brings up an ethical dilemma: Who should the car harm if it finds itself in one of those unavoidable situations? Do children, elderly people or other factors change the equation
 
 debate over how they should behave in situations they can’t anticipate is sharpening.
 
-*** 
+***
+
 #### Resources: 
 
 Code of Ethics
